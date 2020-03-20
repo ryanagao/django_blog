@@ -25,7 +25,7 @@ SECRET_KEY = '-8r%)u=(z1fu774^ccf!*)32i2to1hx-xfnrlu*97qzc@df*70'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.1.100']
+ALLOWED_HOSTS = ['192.168.1.100', '52.221.249.9', 'django.gq']
 
 
 # Application definition
